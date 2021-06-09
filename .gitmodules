@@ -22,3 +22,8 @@
 	path = OCA-MUK/product-attribute
 	url = git@github.com:OCA-MUK/product-attribute.git
 	branch = 13.0
+
+[submodule "OCA-MUK/product-variant"]
+	path = OCA-MUK/product-variant
+	url = git@github.com:OCA-MUK/product-variant.git
+	branch = 13.0
