@@ -17,3 +17,8 @@
 	path = OCA-MUK/mis-builder
 	url = git@github.com:OCA-MUK/mis-builder.git
 	branch = 13.0
+
+[submodule "OCA-MUK/product-attribute"]
+	path = OCA-MUK/product-attribute
+	url = git@github.com:OCA-MUK/product-attribute.git
+	branch = 13.0
