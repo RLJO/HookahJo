@@ -12,3 +12,8 @@
 	path = OCA-MUK/helpdesk
 	url = git@github.com:OCA-MUK/helpdesk.git
 	branch = 13.0
+
+[submodule "OCA-MUK/mis-builder"]
+	path = OCA-MUK/mis-builder
+	url = git@github.com:OCA-MUK/mis-builder.git
+	branch = 13.0
