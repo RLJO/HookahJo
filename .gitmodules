@@ -82,3 +82,8 @@
 	path = RLJO/shared-custom-private
 	url = git@github.com:RLJO/shared-custom-private.git
 	branch = 13.0
+
+[submodule "RLJO/dn_api_13"]
+	path = RLJO/dn_api_13
+	url = git@github.com:RLJO/dn_api_13.git
+	branch = 13.0
