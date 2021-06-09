@@ -72,3 +72,8 @@
 	path = RLJO/smartarget_odoo
 	url = git@github.com:RLJO/smartarget_odoo.git
 	branch = 13.0
+
+[submodule "RLJO/ukka_app"]
+	path = RLJO/ukka_app
+	url = git@github.com:RLJO/ukka_app.git
+	branch = 13-Production
