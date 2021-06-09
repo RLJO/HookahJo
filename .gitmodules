@@ -62,3 +62,8 @@
 	path = RLJO/odoo_13
 	url = git@github.com:RLJO/odoo_13.git
 	branch = master
+
+[submodule "RLJO/odoo_theme"]
+	path = RLJO/odoo_theme
+	url = git@github.com:RLJO/odoo_theme.git
+	branch = 13.0
