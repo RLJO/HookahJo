@@ -42,3 +42,8 @@
 	path = OCA-MUK/website
 	url = git@github.com:OCA-MUK/website.git
 	branch = 13.0
+
+[submodule "RL-OtherApps/whatsapp_odoo_pro"]
+	path = RL-OtherApps/whatsapp_odoo_pro
+	url = git@github.com:RL-OtherApps/whatsapp_odoo_pro.git
+	branch = 13.0
