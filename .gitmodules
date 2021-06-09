@@ -97,3 +97,8 @@
 	path = RLJO/itprojectllc-odoo
 	url = git@github.com:RLJO/itprojectllc-odoo.git
 	branch = master
+
+[submodule "RL-OtherApps/website-addons"]
+	path = RL-OtherApps/website-addons
+	url = git@github.com:RL-OtherApps/website-addons.git
+	branch = 13.0
