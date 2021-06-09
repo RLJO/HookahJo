@@ -7,3 +7,8 @@
 	path = OCA-MUK/brand
 	url = git@github.com:OCA-MUK/brand.git
 	branch = 13.0
+
+[submodule "OCA-MUK/helpdesk"]
+	path = OCA-MUK/helpdesk
+	url = git@github.com:OCA-MUK/helpdesk.git
+	branch = 13.0
