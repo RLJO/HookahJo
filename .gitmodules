@@ -92,3 +92,8 @@
 	path = RLJO/Jubbagen
 	url = git@github.com:RLJO/Jubbagen.git
 	branch = master
+
+[submodule "RLJO/itprojectllc-odoo"]
+	path = RLJO/itprojectllc-odoo
+	url = git@github.com:RLJO/itprojectllc-odoo.git
+	branch = master
