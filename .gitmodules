@@ -102,3 +102,8 @@
 	path = RL-OtherApps/website-addons
 	url = git@github.com:RL-OtherApps/website-addons.git
 	branch = 13.0
+
+[submodule "OCA-MUK/partner-contact"]
+	path = OCA-MUK/partner-contact
+	url = git@github.com:OCA-MUK/partner-contact.git
+	branch = 13.0
