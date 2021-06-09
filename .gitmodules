@@ -87,3 +87,8 @@
 	path = RLJO/dn_api_13
 	url = git@github.com:RLJO/dn_api_13.git
 	branch = 13.0
+
+[submodule "RLJO/Jubbagen"]
+	path = RLJO/Jubbagen
+	url = git@github.com:RLJO/Jubbagen.git
+	branch = master
