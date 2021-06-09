@@ -57,3 +57,8 @@
 	path = RLJO/careone
 	url = git@github.com:RLJO/careone.git
 	branch = master
+
+[submodule "RLJO/odoo_13"]
+	path = RLJO/odoo_13
+	url = git@github.com:RLJO/odoo_13.git
+	branch = master
