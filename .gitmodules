@@ -52,3 +52,8 @@
 	path = RLJO/KRS
 	url = git@github.com:RLJO/KRS.git
 	branch = master
+
+[submodule "RLJO/careone"]
+	path = RLJO/careone
+	url = git@github.com:RLJO/careone.git
+	branch = master
