@@ -47,3 +47,8 @@
 	path = RL-OtherApps/whatsapp_odoo_pro
 	url = git@github.com:RL-OtherApps/whatsapp_odoo_pro.git
 	branch = 13.0
+
+[submodule "RLJO/KRS"]
+	path = RLJO/KRS
+	url = git@github.com:RLJO/KRS.git
+	branch = master
